@@ -28,4 +28,4 @@ for r in range(13):
 
 def display_board(board):
     for r in range(13):
-        print(board[i])
+        print(board[r])
